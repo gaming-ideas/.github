@@ -2,13 +2,19 @@
 
 ## Intro
 
-Aim of the hack, theme
-Group up or hack as individuals? 
+- Aim of the hack (learn copilot), theme
+- Group up or hack as individuals? 
 
 ## Inspiration
 
-Links to repos: memory game, trivia quiz, etc, etc
-Ask Copilot for help generating ideas
+- Links to repos: memory game, trivia quiz, etc, etc
+- Ask Copilot for help generating ideas
+
+## Pre-reqs
+
+- Copilot Licence
+- Copilot install
+- Laptop
 
 ## Judging Criteria
 
