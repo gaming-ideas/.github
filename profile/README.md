@@ -3,17 +3,22 @@
 ## Intro
 
 Aim of the hack, theme
+Group up or hack as individuals? 
 
 ## Inspiration
 
 Links to repos: memory game, trivia quiz, etc, etc
-Ask Copilot for help generating Ideas
+Ask Copilot for help generating ideas
 
 ## Judging Criteria
 
 - Most complete
 - Creative uses of Copilot
 - Bonus points for festivity
+
+## Submitting
+
+Where? How will we judge? Who will judge? 
 
 ## Copilot Tips and Tricks
 
